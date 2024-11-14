@@ -1,6 +1,12 @@
-# template-vanilla
+# js-basic-constructors-refactoring-objects-to-constructor
 
-## Text
+## We have a collection of objects, and we need to streamline the code by removing any unnecessary parts in the constructors. The constructor should be named `User` and must include `export` before the `function` keyword. The method names should remain unchanged, but you can rename the properties as needed.
+
+```js
+export function User ...
+```
+
+## Please, add JSDOC to your constructor for all properties and methods. Read the doc [here](https://jsdoc.app/about-getting-started)
 
 ## Criteria:
 
